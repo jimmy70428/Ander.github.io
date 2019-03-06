@@ -3,10 +3,10 @@ html{
 }
 
 body {
-  margin-top:10px; 
-  margin-left:20%; 
-  margin-right:20%; 
-  margin-bottom:auto;
+  margin-right: 20%;
+  margin-left: 20%;
+  margin-top: 0%;
+  margin-bottom: auto;
 }
 
 header h1{
@@ -21,81 +21,63 @@ header h1{
 article h1{
   font-family: "微軟正黑體";
   font-size: 20px;
+  padding: 2% 0px 0px 2%;
 }
 
 nav ul{
   background-color: #5bec73;
+  word-spacing:170px;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 article li{
   font-family:"微軟正黑體";
   font-size: 20px;
-  padding: 12.7px 20px 8px 30px;
+  padding: 2% 0% 2% 5%;
 }
 
 nav li{
   font-family: "微軟正黑體";
   font-size: 20px;
-  padding: 20px 50px 20px 50px;
   list-style-type: none;
   display: inline;
-  text-align: center;
-  line-height: 2;
 }
 
 a{
-  display: inline-block;
-  text-transform: uppercase;
   text-decoration: none;
   color: rgb(255, 255, 255);
-  transition-duration: 200ms;
   text-shadow: rgb(12, 10, 0) 1px 0 10px;
 }
 
 article{
   background-color:rgb(255, 255, 255);
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-top: 20px;
-  padding-bottom: 30px;
 }
 
 article p{
   font-family: "微軟正黑體";
+  font-size: 19px;
   font-weight: bold;
-  font-size: 16px;
-  padding-left: 0px;
-  padding-right: 0px;
-  padding-top: 0px;
-  padding-bottom: 12px; 
-}
-
-article p1{
-  font-family: "標楷體";
-  font-weight: bold;
-  font-size: 18px;
-  padding-left: 150px;
-  padding-right: 0px;
-  padding-top: 0px;
-  padding-bottom: 0px; 
+  padding: 3% 0% 2.9% 5%;
+  text-align: center;
 }
 
 article h2{
   font-family: "微軟正黑體";
   font-weight: bold;
-  font-size: 16px;
+  font-size: 19px;
   color: black;
-  text-align: left;
-  padding-bottom:1px;
+  text-align: center;
+  padding: 0.77% 0% 0.77% 5%;
 }
 
 video{
-  padding-left: 150px;
+  padding : 3.6% 20% 3.6% 25%;
 }
 
 footer{
   background-color: rgb(238, 8, 8);
-  padding:0px 0px 0px 0px;
 }
 
 h2{
