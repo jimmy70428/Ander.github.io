@@ -59,6 +59,8 @@ article p{
   font-family: "微軟正黑體";
   font-size: 19px;
   font-weight: bold;
+  padding: 3% 0% 2.9% 5%;
+  text-align: center;
 }
 
 article h2{
